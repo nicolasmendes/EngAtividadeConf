@@ -11,6 +11,7 @@ package engatividadeconf;
  */
 public class A {
 
+    
     private float A2;
     
     private String A3;
