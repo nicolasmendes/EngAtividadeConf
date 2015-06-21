@@ -12,6 +12,16 @@ package engatividadeconf;
 public class A {
 
     private float A2;
+    
+    private String A3;
+
+    public String getA3() {
+        return A3;
+    }
+
+    public void setA3(String A3) {
+        this.A3 = A3;
+    }
 
     public float getA2() {
         return A2;
