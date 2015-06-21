@@ -40,9 +40,13 @@ public class A {
     public void setA1(int A1) {
         this.A1 = A1;
     }
-
+    public static float soma(int a, float b) {
+        return a + b;
+    }
     public  void main(String[] args) {
-        
+        A1 = 2;
+        A2 = 3;
+        float result = soma(A1, A2);
     }
     
 }
